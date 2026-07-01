@@ -1,6 +1,6 @@
 ## Prolog Programs
 
-This repository contains a series of Prolog programs developed as part of my M.Tech in AI & Data Science. The focus is on understanding logic programming, knowledge representation, and reasoning systems.
+This repository contains a series of Prolog programs. The focus is on understanding logic programming, knowledge representation, and reasoning systems.
 
 ### Overview
 
