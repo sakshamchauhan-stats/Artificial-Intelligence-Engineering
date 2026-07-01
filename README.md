@@ -1,6 +1,6 @@
 ## Artificial Intelligence Engineering
 
-This repository contains implementations of foundational Artificial Intelligence concepts as part of my M.Tech in AI & Data Science. It serves as a structured collection of classical AI algorithms, logic programming, and optimization techniques to strengthen core understanding of intelligent systems.
+This repository contains implementations of foundational Artificial Intelligence concepts. It serves as a structured collection of classical AI algorithms, logic programming, and optimization techniques to strengthen core understanding of intelligent systems.
 
 ### Repository Overview
 
