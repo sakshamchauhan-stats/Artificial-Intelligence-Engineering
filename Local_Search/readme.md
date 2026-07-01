@@ -1,7 +1,7 @@
 
 ## Local Search & Optimization in AI
 
-This repository contains implementations of local search and optimization algorithms as part of my M.Tech in AI & Data Science. The focus is on understanding how intelligent systems explore large solution spaces to find optimal or near-optimal solutions.
+This repository contains implementations of local search and optimization algorithms. The focus is on understanding how intelligent systems explore large solution spaces to find optimal or near-optimal solutions.
 
 ### Overview
 
