@@ -1,6 +1,6 @@
 ## Search Strategies in AI
 
-This repository contains implementations of classical AI search algorithms as part of my M.Tech in AI & Data Science. The focus is on understanding how different search strategies explore problem spaces and the trade-offs between them.
+This repository contains implementations of classical AI search algorithms. The focus is on understanding how different search strategies explore problem spaces and the trade-offs between them.
 
 ### Overview
 
